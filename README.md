@@ -7,9 +7,9 @@
 -->
 
 <details>
-<summary><a name="hero"><img src="./assets/hero.svg" width="1200" alt="Stefan (stefandsl): building from the knowledge void at the speed of light. Click to open the console." /></a></summary>
+<summary><a name="hero"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/hero.svg" /><img src="./assets/hero.svg" width="1200" alt="Stefan (stefandsl): building from the knowledge void at the speed of light. Click to open the console." /></picture></a></summary>
 <br />
-<img src="./assets/granted.svg" width="1200" alt="Access granted. Progress saved." />
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/granted.svg" /><img src="./assets/granted.svg" width="1200" alt="Access granted. Progress saved." /></picture>
 
 **Console**
 
@@ -19,7 +19,7 @@
 - **Connect**: got a project? <a href="mailto:stefandsl@outlook.com">write me</a>
 - **Signal**: star a repo you use, it keeps the void lit
 
-<a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
+<a href="https://www.voidexploit.com/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-academy.svg" /><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></picture></a>
 </details>
 
 <p align="center">
@@ -29,16 +29,16 @@
 </p>
 
 <details>
-<summary><a name="divider"><img src="./assets/divider.svg" width="1200" alt="Pipeline: scan, parse, redact, report, ship. Click to open the academy." /></a></summary>
+<summary><a name="divider"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/divider.svg" /><img src="./assets/divider.svg" width="1200" alt="Pipeline: scan, parse, redact, report, ship. Click to open the academy." /></picture></a></summary>
 <br />
-<a href="#"><img src="./assets/recruit.svg" width="1200" alt="VoidExploit Academy: 116 interactive lessons, 11 modules, 53+ hours, 4 languages." /></a>
+<a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/recruit.svg" /><img src="./assets/recruit.svg" width="1200" alt="VoidExploit Academy: 116 interactive lessons, 11 modules, 53+ hours, 4 languages." /></picture></a>
 
 **Learn to steer AI.** VoidExploit Academy is an Italian-first, hands-on AI course: interactive decks, workshops and labs, with English, Romanian and Russian versions.
 
-<a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
+<a href="https://www.voidexploit.com/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-academy.svg" /><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></picture></a>
 </details>
 
-## <a name="h-about"><img src="./assets/h-about.svg" width="30" height="30" alt="" /></a> About Me
+## <a name="h-about"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-about.svg" /><img src="./assets/h-about.svg" width="30" height="30" alt="" /></picture></a> About Me
 
 I'm Stefan, a **telecom engineer and system administrator** based in **Venice**, with more than ten years in telecommunications. Networking is the part I love most, especially network aggregators and load balancers.
 
@@ -65,9 +65,9 @@ I studied Asian and Mediterranean African languages and cultures (Japanese) at *
   </tr>
 </table>
 
-## <a name="h-quest"><img src="./assets/h-quest.svg" width="30" height="30" alt="" /></a> Quest Log
+## <a name="h-quest"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-quest.svg" /><img src="./assets/h-quest.svg" width="30" height="30" alt="" /></picture></a> Quest Log
 
-<img src="./assets/timeline.svg" width="1200" alt="Career: 2010 IT lead at Temple Library, Texas; 2011 telecom technician at Moldtelecom; 2012 senior IoT engineer at VoidExploit; 2020 ISP systems technician at Ki-Net; 2025 system administrator at Helinext. Certifications: OCNA Wireless, Syneto SCP, generative AI courses." />
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/timeline.svg" /><img src="./assets/timeline.svg" width="1200" alt="Career: 2010 IT lead at Temple Library, Texas; 2011 telecom technician at Moldtelecom; 2012 senior IoT engineer at VoidExploit; 2020 ISP systems technician at Ki-Net; 2025 system administrator at Helinext. Certifications: OCNA Wireless, Syneto SCP, generative AI courses." /></picture>
 
 <details>
 <summary><b>Full log: roles and certifications</b></summary>
@@ -93,35 +93,35 @@ I studied Asian and Mediterranean African languages and cultures (Japanese) at *
 
 </details>
 
-## <a name="h-projects"><img src="./assets/h-projects.svg" width="30" height="30" alt="" /></a> Projects: Choose Your Module
+## <a name="h-projects"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-projects.svg" /><img src="./assets/h-projects.svg" width="30" height="30" alt="" /></picture></a> Projects: Choose Your Module
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="#"><img src="./assets/card-voidexploit.svg" width="600" alt="VoidExploit 2.0, vulnerability intelligence platform" /></a>
+      <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/card-voidexploit.svg" /><img src="./assets/card-voidexploit.svg" width="600" alt="VoidExploit 2.0, vulnerability intelligence platform" /></picture></a>
       <p><b>VoidExploit 2.0</b>: OpenVAS imports, OCR, PII detection, GDPR and NIS 2 compliance, white-label reports.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><img src="./assets/card-academy.svg" width="600" alt="VoidExploit Academy, Italian-first AI course" /></a>
+      <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/card-academy.svg" /><img src="./assets/card-academy.svg" width="600" alt="VoidExploit Academy, Italian-first AI course" /></picture></a>
       <p><b>VoidExploit Academy</b>: 116 interactive lessons, 11 modules, 53+ hours in IT / EN / RO / RU.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/stefandsl/bellerophon-go"><img src="./assets/card-bellerophon.svg" width="600" alt="Bellerophon, Go voice stack" /></a>
+      <a href="https://github.com/stefandsl/bellerophon-go"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/card-bellerophon.svg" /><img src="./assets/card-bellerophon.svg" width="600" alt="Bellerophon, Go voice stack" /></picture></a>
       <p><b><a href="https://github.com/stefandsl/bellerophon-go">Bellerophon</a></b>: single-binary Go voice stack on sipgo and pion/rtp.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><img src="./assets/card-pista-ai.svg" width="600" alt="Pista AI, catalog of AI tools and prompts" /></a>
+      <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/card-pista-ai.svg" /><img src="./assets/card-pista-ai.svg" width="600" alt="Pista AI, catalog of AI tools and prompts" /></picture></a>
       <p><b>Pista AI</b>: curated catalog of AI tools and prompts, each verified at the source.</p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><picture><img src="./assets/vault.svg" width="95%" alt="Open the vault: more tools inside" /></picture></summary>
+<summary><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/vault.svg" /><img src="./assets/vault.svg" width="95%" alt="Open the vault: more tools inside" /></picture></summary>
 <br />
-<img src="./assets/vault-open.svg" width="1200" alt="Vault decrypted: more tools and experiments" />
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/vault-open.svg" /><img src="./assets/vault-open.svg" width="1200" alt="Vault decrypted: more tools and experiments" /></picture>
 
 <!-- TODO: edit this list -->
 - **[bellerophon-install](https://github.com/stefandsl/bellerophon-install)**: one-line installer for the Bellerophon voice stack.
@@ -132,17 +132,17 @@ I studied Asian and Mediterranean African languages and cultures (Japanese) at *
 
 </details>
 
-## <a name="h-boss"><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></a> Boss Fight
+## <a name="h-boss"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-boss.svg" /><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></picture></a> Boss Fight
 
 <details>
-<summary><picture><img src="./assets/gate.svg" width="95%" alt="Enter the breach: boss ahead" /></picture></summary>
+<summary><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/gate.svg" /><img src="./assets/gate.svg" width="95%" alt="Enter the breach: boss ahead" /></picture></summary>
 <br />
-<img src="./assets/boss.svg" width="1200" alt="Final boss: the 40-hour manual audit, defeated by OpenVAS import, PII redaction and NIS 2 checklists." />
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/boss.svg" /><img src="./assets/boss.svg" width="1200" alt="Final boss: the 40-hour manual audit, defeated by OpenVAS import, PII redaction and NIS 2 checklists." /></picture>
 
 **The 40-Hour Manual Audit.** Weakness: agents that read, redact and report for you. VoidExploit imports the scan, strips the personal data, maps findings to GDPR and NIS 2, and ships a branded report.
 </details>
 
-## <a name="h-faq"><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></a> FAQ
+## <a name="h-faq"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-faq.svg" /><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></picture></a> FAQ
 
 <details>
 <summary><b>Who is stefandsl?</b></summary>
@@ -162,16 +162,16 @@ A platform that turns vulnerability scans and documents into actionable intellig
 An Italian-first AI course: 116 interactive presentations across 11 modules, plus workshops, with English, Romanian and Russian versions.
 </details>
 
-## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
+## <a name="h-stack"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-stack.svg" /><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></picture></a> Tech Stack
 
-<img src="./assets/stack.svg" width="1200" alt="Tech stack: Python, TypeScript, React, Go, Claude Code, Ollama, MCP, Codex, Flask, Tailwind, Docker, Redis, OpenVAS, Tesseract, Supabase, Vercel, MikroTik, UniFi, TP-Link Omada, Syneto" />
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/stack.svg" /><img src="./assets/stack.svg" width="1200" alt="Tech stack: Python, TypeScript, React, Go, Claude Code, Ollama, MCP, Codex, Flask, Tailwind, Docker, Redis, OpenVAS, Tesseract, Supabase, Vercel, MikroTik, UniFi, TP-Link Omada, Syneto" /></picture>
 
-## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
+## <a name="h-connect"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-connect.svg" /><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></picture></a> Connect
 
 <p align="center">
-  <a href="https://www.stefandsl.com/"><img src="./assets/btn-site.svg" width="185" height="52" alt="stefandsl.com, Stefan's website" /></a>
-  <a href="https://www.helinext.it"><img src="./assets/btn-website.svg" width="168" height="52" alt="helinext.it" /></a>
-  <a href="https://www.linkedin.com/in/stefan-butnaru/"><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="Stefan Butnaru on LinkedIn" /></a>
-  <a href="mailto:stefandsl@outlook.com"><img src="./assets/btn-email.svg" width="142" height="52" alt="Write me an email" /></a>
-  <a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
+  <a href="https://www.stefandsl.com/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-site.svg" /><img src="./assets/btn-site.svg" width="185" height="52" alt="stefandsl.com, Stefan's website" /></picture></a>
+  <a href="https://www.helinext.it"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-website.svg" /><img src="./assets/btn-website.svg" width="168" height="52" alt="helinext.it" /></picture></a>
+  <a href="https://www.linkedin.com/in/stefan-butnaru/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-linkedin.svg" /><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="Stefan Butnaru on LinkedIn" /></picture></a>
+  <a href="mailto:stefandsl@outlook.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-email.svg" /><img src="./assets/btn-email.svg" width="142" height="52" alt="Write me an email" /></picture></a>
+  <a href="https://www.voidexploit.com/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-academy.svg" /><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></picture></a>
 </p>
