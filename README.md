@@ -164,7 +164,7 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
 
 ## <a name="h-stack"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-stack.svg" /><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></picture></a> Tech Stack
 
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/stack.svg" /><img src="./assets/stack.svg" width="1200" alt="Tech stack: Python, TypeScript, React, Go, Claude Code, Ollama, MCP, Codex, Flask, Tailwind, Docker, Redis, OpenVAS, Tesseract, Supabase, Vercel, MikroTik, UniFi, TP-Link Omada, Syneto" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/stack.svg" /><img src="./assets/stack.svg" width="1200" alt="Tech stack: Claude Code, Ollama, MCP, Codex, Docker, OpenVAS, Supabase, Vercel, MikroTik, UniFi, TP-Link Omada, Syneto" /></picture>
 
 ## <a name="h-connect"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-connect.svg" /><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></picture></a> Connect
 
