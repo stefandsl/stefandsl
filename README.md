@@ -137,9 +137,9 @@ I studied Asian and Mediterranean African languages and cultures (Japanese) at *
 <details>
 <summary><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/gate.svg" /><img src="./assets/gate.svg" width="95%" alt="Enter the breach: boss ahead" /></picture></summary>
 <br />
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/boss.svg" /><img src="./assets/boss.svg" width="1200" alt="Final boss: the 40-hour manual audit, defeated by OpenVAS import, PII redaction and NIS 2 checklists." /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/boss.svg" /><img src="./assets/boss.svg" width="1200" alt="Final boss: the unpatched CVE backlog, defeated by open-source SOC detection, local AI CVE remediation and branded on-prem reports." /></picture>
 
-**The 40-Hour Manual Audit.** Weakness: agents that read, redact and report for you. VoidExploit imports the scan, strips the personal data, maps findings to GDPR and NIS 2, and ships a branded report.
+**The Unpatched CVE Backlog.** Weakness: a SOC built on open-source detection and local AI. Open-source tools catch the threats, a local AI model triages each CVE and drafts the remediation, personalised workflows route every fix to the right place, and AI-generated branded documents are produced on your own hardware. Nothing leaves the building.
 </details>
 
 ## <a name="h-faq"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-faq.svg" /><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></picture></a> FAQ
