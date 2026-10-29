@@ -1,7 +1,9 @@
 <!--
-  stefandsl: AI systems, security tooling and courses. VoidExploit / Helinext.
+  Stefan Butnaru (stefandsl): IT/IoT systems engineer and sysadmin in Venice.
+  AI agents, security tooling and courses. VoidExploit / Helinext.
   Website: https://www.stefandsl.com/
-  TODO before publishing: replace every link marked TODO below.
+  LinkedIn: https://www.linkedin.com/in/stefan-butnaru-84a394b8/
+  TODO: replace the remaining links marked TODO below.
 -->
 
 <details>
@@ -13,15 +15,16 @@
 
 - **Train**: take the <a href="#">VoidExploit Academy</a> course <!-- TODO: academy URL -->
 - **Deploy**: try <a href="#">VoidExploit 2.0</a> or <a href="https://github.com/stefandsl/bellerophon-go">Bellerophon</a> <!-- TODO: VoidExploit URL -->
-- **Travel**: <a href="https://www.stefandsl.com/">stefandsl.com</a>, <a href="https://www.helinext.it">helinext.it</a> or <a href="#">LinkedIn</a> <!-- TODO: LinkedIn URL -->
+- **Travel**: <a href="https://www.stefandsl.com/">stefandsl.com</a>, <a href="https://www.helinext.it">helinext.it</a> or <a href="https://www.linkedin.com/in/stefan-butnaru-84a394b8/">LinkedIn</a>
+- **Connect**: got a project? <a href="mailto:stefanbutnaru1@gmail.com">write me</a>
 - **Signal**: star a repo you use, it keeps the void lit
 
 <a href="#"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
 </details>
 
 <p align="center">
-  <b>Stefan</b> builds <b>AI agents</b>, security tooling and AI courses at <b>Helinext</b>.<br />
-  Maker of VoidExploit 2.0, VoidExploit Academy, Bellerophon and Pista AI.
+  <b>Stefan Butnaru</b>: IT/IoT systems engineer and sysadmin in Venice, building <b>AI agents</b>, security tooling and AI courses.<br />
+  <i>stefandsl: your digital subscriber line into the future.</i> Maker of VoidExploit 2.0, VoidExploit Academy, Bellerophon and Pista AI.
 </p>
 
 <details>
@@ -36,11 +39,24 @@
 
 ## <a name="h-about"><img src="./assets/h-about.svg" width="30" height="30" alt="" /></a> About Me
 
-I build AI systems that turn noise into intelligence: vulnerability reports people actually read, documents scrubbed of personal data before they reach an LLM, and agents that do the repetitive half of security and compliance work.
+I'm Stefan, an **IT/IoT systems engineer and sysadmin** based in **Venice**. My day-to-day is networks and IT/IoT solutions: connecting, troubleshooting and keeping systems running. Being comfortable with code lets me prototype and validate ideas quickly.
 
-At **Helinext** I work on network assessments, IT asset reporting and security tooling. On the side I teach: **VoidExploit Academy** is my Italian-first AI course, with interactive lessons in four languages.
+That's where the AI work comes from. I build systems that turn noise into intelligence: vulnerability reports people actually read, documents scrubbed of personal data before they reach an LLM, and agents that handle the repetitive half of security and compliance work. At **Helinext** that means network assessments, IT asset reporting and security tooling.
 
-<!-- TODO: add a line about where you are based / what you are looking for -->
+On the side I teach: **VoidExploit Academy** is my Italian-first AI course, with interactive lessons in four languages. In my spare time I'm practising AI, automation, neural networks and robotics.
+
+**Open to new projects.** If you have something in mind, [write me](mailto:stefanbutnaru1@gmail.com).
+
+<table>
+  <tr>
+    <td><b>Focus</b></td>
+    <td>Programming · Connecting · Troubleshooting · Solutions · Next systems</td>
+  </tr>
+  <tr>
+    <td><b>Exploring</b></td>
+    <td>AI agents · Neural networks · Robotics · Ethical dev</td>
+  </tr>
+</table>
 
 ## <a name="h-projects"><img src="./assets/h-projects.svg" width="30" height="30" alt="" /></a> Projects: Choose Your Module
 
@@ -74,6 +90,7 @@ At **Helinext** I work on network assessments, IT asset reporting and security t
 
 <!-- TODO: edit this list -->
 - **[bellerophon-install](https://github.com/stefandsl/bellerophon-install)**: one-line installer for the Bellerophon voice stack.
+- **[Cyberscraper](https://cyberscraper.netlify.app/)**: web scraper, live on Netlify.
 - **[MellodifAI-web-app](https://github.com/stefandsl/MellodifAI-web-app)**: MellodifAI web app.
 - **LinguaVault**: language-learning vault. <!-- TODO: link + description -->
 - **HELINEXT dossier generator**: branded IT asset dossiers from scan data. <!-- TODO: link or remove -->
@@ -95,7 +112,7 @@ At **Helinext** I work on network assessments, IT asset reporting and security t
 <details>
 <summary><b>Who is stefandsl?</b></summary>
 <br />
-Stefan, a builder at <a href="https://www.helinext.it">Helinext</a> working on AI agents, security tooling and AI education. Creator of VoidExploit and VoidExploit Academy. Website: <a href="https://www.stefandsl.com/">stefandsl.com</a>.
+Stefan Butnaru, an IT/IoT systems engineer and sysadmin in Venice. He works on AI agents, security tooling and AI education, including at <a href="https://www.helinext.it">Helinext</a>. Creator of VoidExploit and VoidExploit Academy. Website: <a href="https://www.stefandsl.com/">stefandsl.com</a>.
 </details>
 
 <details>
@@ -119,6 +136,7 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
 <p align="center">
   <a href="https://www.stefandsl.com/"><img src="./assets/btn-site.svg" width="185" height="52" alt="stefandsl.com, Stefan's website" /></a>
   <a href="https://www.helinext.it"><img src="./assets/btn-website.svg" width="168" height="52" alt="helinext.it" /></a>
-  <a href="#"><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/stefan-butnaru-84a394b8/"><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="Stefan Butnaru on LinkedIn" /></a>
+  <a href="mailto:stefanbutnaru1@gmail.com"><img src="./assets/btn-email.svg" width="142" height="52" alt="Write me an email" /></a>
   <a href="#"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
 </p>
