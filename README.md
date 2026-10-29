@@ -153,7 +153,7 @@ Stefan Butnaru, a telecom engineer and system administrator at <a href="https://
 <details>
 <summary><b>What is VoidExploit?</b></summary>
 <br />
-A platform that turns vulnerability scans and documents into actionable intelligence: OpenVAS import, OCR, translation, PII detection, compliance checks and branded reports.
+A concept I'm building: a platform where we share really useful know-how, without all the fluff. =)
 </details>
 
 <details>
