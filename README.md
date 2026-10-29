@@ -5,9 +5,9 @@
 -->
 
 <details>
-<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="Stefan (stefandsl) builds AI agents, security tooling and courses. VoidExploit. Click to open the console." /></a></summary>
+<summary><a name="hero"><img src="./assets/hero.svg" width="1200" alt="Stefan (stefandsl) builds AI agents, security tooling and courses. VoidExploit. Click to open the console." /></a></summary>
 <br />
-<img src="./assets/granted.svg" width="1200" height="420" alt="Access granted. Progress saved." />
+<img src="./assets/granted.svg" width="1200" alt="Access granted. Progress saved." />
 
 **Console**
 
@@ -25,9 +25,9 @@
 </p>
 
 <details>
-<summary><a name="divider"><img src="./assets/divider.svg" width="1200" height="120" alt="Pipeline: scan, parse, redact, report, ship. Click to open the academy." /></a></summary>
+<summary><a name="divider"><img src="./assets/divider.svg" width="1200" alt="Pipeline: scan, parse, redact, report, ship. Click to open the academy." /></a></summary>
 <br />
-<a href="#"><img src="./assets/recruit.svg" width="1200" height="320" alt="VoidExploit Academy: 116 interactive lessons, 11 modules, 53+ hours, 4 languages." /></a>
+<a href="#"><img src="./assets/recruit.svg" width="1200" alt="VoidExploit Academy: 116 interactive lessons, 11 modules, 53+ hours, 4 languages." /></a>
 
 **Learn to steer AI.** VoidExploit Academy is an Italian-first, hands-on AI course: interactive decks, workshops and labs, with English, Romanian and Russian versions.
 
@@ -47,21 +47,21 @@ At **Helinext** I work on network assessments, IT asset reporting and security t
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="#"><img src="./assets/card-voidexploit.svg" width="600" height="210" alt="VoidExploit 2.0, vulnerability intelligence platform" /></a>
+      <a href="#"><img src="./assets/card-voidexploit.svg" width="600" alt="VoidExploit 2.0, vulnerability intelligence platform" /></a>
       <p><b>VoidExploit 2.0</b>: OpenVAS imports, OCR, PII detection, GDPR and NIS 2 compliance, white-label reports.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><img src="./assets/card-academy.svg" width="600" height="210" alt="VoidExploit Academy, Italian-first AI course" /></a>
+      <a href="#"><img src="./assets/card-academy.svg" width="600" alt="VoidExploit Academy, Italian-first AI course" /></a>
       <p><b>VoidExploit Academy</b>: 116 interactive lessons, 11 modules, 53+ hours in IT / EN / RO / RU.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/stefandsl/bellerophon-go"><img src="./assets/card-bellerophon.svg" width="600" height="210" alt="Bellerophon, Go voice stack" /></a>
+      <a href="https://github.com/stefandsl/bellerophon-go"><img src="./assets/card-bellerophon.svg" width="600" alt="Bellerophon, Go voice stack" /></a>
       <p><b><a href="https://github.com/stefandsl/bellerophon-go">Bellerophon</a></b>: single-binary Go voice stack on sipgo and pion/rtp.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><img src="./assets/card-pista-ai.svg" width="600" height="210" alt="Pista AI, catalog of AI tools and prompts" /></a>
+      <a href="#"><img src="./assets/card-pista-ai.svg" width="600" alt="Pista AI, catalog of AI tools and prompts" /></a>
       <p><b>Pista AI</b>: curated catalog of AI tools and prompts, each verified at the source.</p>
     </td>
   </tr>
@@ -70,7 +70,7 @@ At **Helinext** I work on network assessments, IT asset reporting and security t
 <details>
 <summary><picture><img src="./assets/vault.svg" width="95%" alt="Open the vault: more tools inside" /></picture></summary>
 <br />
-<img src="./assets/vault-open.svg" width="1200" height="300" alt="Vault decrypted: more tools and experiments" />
+<img src="./assets/vault-open.svg" width="1200" alt="Vault decrypted: more tools and experiments" />
 
 <!-- TODO: edit this list -->
 - **[bellerophon-install](https://github.com/stefandsl/bellerophon-install)**: one-line installer for the Bellerophon voice stack.
@@ -85,7 +85,7 @@ At **Helinext** I work on network assessments, IT asset reporting and security t
 <details>
 <summary><picture><img src="./assets/gate.svg" width="95%" alt="Enter the breach: boss ahead" /></picture></summary>
 <br />
-<img src="./assets/boss.svg" width="1200" height="470" alt="Final boss: the 40-hour manual audit, defeated by OpenVAS import, PII redaction and NIS 2 checklists." />
+<img src="./assets/boss.svg" width="1200" alt="Final boss: the 40-hour manual audit, defeated by OpenVAS import, PII redaction and NIS 2 checklists." />
 
 **The 40-Hour Manual Audit.** Weakness: agents that read, redact and report for you. VoidExploit imports the scan, strips the personal data, maps findings to GDPR and NIS 2, and ships a branded report.
 </details>
@@ -112,7 +112,7 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
 
 ## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
 
-<img src="./assets/stack.svg" width="1200" height="430" alt="Tech stack: Python, TypeScript, React, Go, Claude Code, Ollama, MCP, Codex, Flask, Tailwind, Docker, Redis, OpenVAS, Tesseract, Supabase, Vercel" />
+<img src="./assets/stack.svg" width="1200" alt="Tech stack: Python, TypeScript, React, Go, Claude Code, Ollama, MCP, Codex, Flask, Tailwind, Docker, Redis, OpenVAS, Tesseract, Supabase, Vercel" />
 
 ## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
 
