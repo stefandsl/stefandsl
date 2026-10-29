@@ -16,7 +16,7 @@
 - **Train**: take the <a href="#">VoidExploit Academy</a> course <!-- TODO: academy URL -->
 - **Deploy**: try <a href="#">VoidExploit 2.0</a> or <a href="https://github.com/stefandsl/bellerophon-go">Bellerophon</a> <!-- TODO: VoidExploit URL -->
 - **Travel**: <a href="https://www.stefandsl.com/">stefandsl.com</a>, <a href="https://www.helinext.it">helinext.it</a> or <a href="https://www.linkedin.com/in/stefan-butnaru/">LinkedIn</a>
-- **Connect**: got a project? <a href="mailto:stefanbutnaru1@gmail.com">write me</a>
+- **Connect**: got a project? <a href="mailto:stefandsl@outlook.com">write me</a>
 - **Signal**: star a repo you use, it keeps the void lit
 
 <a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
@@ -45,7 +45,7 @@ That's where the AI work comes from. I build systems that turn noise into intell
 
 On the side I teach: **VoidExploit Academy** is my Italian-first AI course, with interactive lessons in four languages. In my spare time I'm practising AI, automation, neural networks and robotics.
 
-**Open to new projects.** If you have something in mind, [write me](mailto:stefanbutnaru1@gmail.com).
+**Open to new projects.** If you have something in mind, [write me](mailto:stefandsl@outlook.com).
 
 <table>
   <tr>
@@ -137,6 +137,6 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
   <a href="https://www.stefandsl.com/"><img src="./assets/btn-site.svg" width="185" height="52" alt="stefandsl.com, Stefan's website" /></a>
   <a href="https://www.helinext.it"><img src="./assets/btn-website.svg" width="168" height="52" alt="helinext.it" /></a>
   <a href="https://www.linkedin.com/in/stefan-butnaru/"><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="Stefan Butnaru on LinkedIn" /></a>
-  <a href="mailto:stefanbutnaru1@gmail.com"><img src="./assets/btn-email.svg" width="142" height="52" alt="Write me an email" /></a>
+  <a href="mailto:stefandsl@outlook.com"><img src="./assets/btn-email.svg" width="142" height="52" alt="Write me an email" /></a>
   <a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
 </p>
