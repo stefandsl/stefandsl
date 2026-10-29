@@ -172,6 +172,6 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
   <a href="https://www.stefandsl.com/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-site.svg" /><img src="./assets/btn-site.svg" width="185" height="52" alt="stefandsl.com, Stefan's website" /></picture></a>
   <a href="https://www.helinext.it"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-website.svg" /><img src="./assets/btn-website.svg" width="168" height="52" alt="helinext.it" /></picture></a>
   <a href="https://www.linkedin.com/in/stefan-butnaru/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-linkedin.svg" /><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="Stefan Butnaru on LinkedIn" /></picture></a>
-  <a href="mailto:stefandsl@outlook.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-email.svg" /><img src="./assets/btn-email.svg" width="142" height="52" alt="Write me an email" /></picture></a>
+  <a href="mailto:stefandsl@outlook.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-email.svg" /><img src="./assets/btn-email.svg" width="108" height="52" alt="Mail" /></picture></a>
   <a href="https://www.voidexploit.com/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/btn-academy.svg" /><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></picture></a>
 </p>
