@@ -7,7 +7,7 @@
 -->
 
 <details>
-<summary><a name="hero"><img src="./assets/hero.svg" width="1200" alt="Stefan (stefandsl) builds AI agents, security tooling and courses. VoidExploit. Click to open the console." /></a></summary>
+<summary><a name="hero"><img src="./assets/hero.svg" width="1200" alt="Stefan (stefandsl): building from the knowledge void at the speed of light. Click to open the console." /></a></summary>
 <br />
 <img src="./assets/granted.svg" width="1200" alt="Access granted. Progress saved." />
 
