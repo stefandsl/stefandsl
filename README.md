@@ -135,11 +135,11 @@ I studied Asian and Mediterranean African languages and cultures (Japanese) at *
 ## <a name="h-boss"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-boss.svg" /><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></picture></a> Boss Fight
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/gate.svg" /><img src="./assets/gate.svg" width="95%" alt="Enter the breach: boss ahead" /></picture></summary>
+<summary><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/gate.svg" /><img src="./assets/gate.svg" width="95%" alt="Cross the event horizon: boss ahead" /></picture></summary>
 <br />
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/boss.svg" /><img src="./assets/boss.svg" width="1200" alt="Final boss: the unpatched CVE backlog, defeated by open-source SOC detection, local AI CVE remediation and branded on-prem reports." /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/boss.svg" /><img src="./assets/boss.svg" width="1200" alt="Final boss: the unpatched CVE backlog, a black hole at the event horizon, defeated by open-source SOC detection, local AI CVE remediation and branded on-prem reports, then escaped through a wormhole." /></picture>
 
-**The Unpatched CVE Backlog.** Weakness: a SOC built on open-source detection and local AI. Open-source tools catch the threats, a local AI model triages each CVE and drafts the remediation, personalised workflows route every fix to the right place, and AI-generated branded documents are produced on your own hardware. Nothing leaves the building.
+**The Unpatched CVE Backlog**, a black hole sitting on your network's event horizon: every unpatched CVE that crosses it is pulled in and never comes back. Weakness: a SOC built on open-source detection and local AI. Open-source tools catch the threats, a local AI model triages each CVE and drafts the remediation, personalised workflows route every fix to the right place, and AI-generated branded documents are produced on your own hardware. Nothing leaves the building, and the backlog exits through the wormhole, patched and documented.
 </details>
 
 ## <a name="h-faq"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-faq.svg" /><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></picture></a> FAQ
