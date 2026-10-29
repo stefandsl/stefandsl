@@ -132,8 +132,6 @@ I studied Asian and Mediterranean African languages and cultures (Japanese) at *
 
 </details>
 
-## <a name="h-boss"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/h-boss.svg" /><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></picture></a> Boss Fight
-
 <details>
 <summary><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/gate.svg" /><img src="./assets/gate.svg" width="95%" alt="Cross the event horizon: boss ahead" /></picture></summary>
 <br />
