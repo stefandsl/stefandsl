@@ -1,6 +1,6 @@
 <!--
   stefandsl: AI systems, security tooling and courses. VoidExploit / Helinext.
-  Website: https://www.helinext.it
+  Website: https://www.stefandsl.com/
   TODO before publishing: replace every link marked TODO below.
 -->
 
@@ -13,7 +13,7 @@
 
 - **Train**: take the <a href="#">VoidExploit Academy</a> course <!-- TODO: academy URL -->
 - **Deploy**: try <a href="#">VoidExploit 2.0</a> or <a href="https://github.com/stefandsl/bellerophon-go">Bellerophon</a> <!-- TODO: VoidExploit URL -->
-- **Travel**: <a href="https://www.helinext.it">helinext.it</a> or <a href="#">LinkedIn</a> <!-- TODO: LinkedIn URL -->
+- **Travel**: <a href="https://www.stefandsl.com/">stefandsl.com</a>, <a href="https://www.helinext.it">helinext.it</a> or <a href="#">LinkedIn</a> <!-- TODO: LinkedIn URL -->
 - **Signal**: star a repo you use, it keeps the void lit
 
 <a href="#"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
@@ -95,7 +95,7 @@ At **Helinext** I work on network assessments, IT asset reporting and security t
 <details>
 <summary><b>Who is stefandsl?</b></summary>
 <br />
-Stefan, a builder at <a href="https://www.helinext.it">Helinext</a> working on AI agents, security tooling and AI education. Creator of VoidExploit and VoidExploit Academy.
+Stefan, a builder at <a href="https://www.helinext.it">Helinext</a> working on AI agents, security tooling and AI education. Creator of VoidExploit and VoidExploit Academy. Website: <a href="https://www.stefandsl.com/">stefandsl.com</a>.
 </details>
 
 <details>
@@ -117,8 +117,8 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
 ## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
 
 <p align="center">
+  <a href="https://www.stefandsl.com/"><img src="./assets/btn-site.svg" width="185" height="52" alt="stefandsl.com, Stefan's website" /></a>
   <a href="https://www.helinext.it"><img src="./assets/btn-website.svg" width="168" height="52" alt="helinext.it" /></a>
-  <a href="https://github.com/stefandsl"><img src="./assets/btn-github.svg" width="125" height="52" alt="stefandsl on GitHub" /></a>
   <a href="#"><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="LinkedIn" /></a>
   <a href="#"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
 </p>
