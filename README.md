@@ -1,5 +1,5 @@
 <!--
-  Stefan Butnaru (stefandsl): IT/IoT systems engineer and sysadmin in Venice.
+  Stefan Butnaru (stefandsl): system administrator at Helinext, senior IoT engineer at VoidExploit. Venice.
   AI agents, security tooling and courses. VoidExploit / Helinext.
   Website: https://www.stefandsl.com/
   LinkedIn: https://www.linkedin.com/in/stefan-butnaru/
@@ -23,8 +23,9 @@
 </details>
 
 <p align="center">
-  <b>Stefan Butnaru</b>: IT/IoT systems engineer and sysadmin in Venice, building <b>AI agents</b>, security tooling and AI courses.<br />
-  <i>stefandsl: your digital subscriber line into the future.</i> Maker of VoidExploit 2.0, VoidExploit Academy, Bellerophon and Pista AI.
+  <b>Stefan Butnaru</b>: system administrator at <b>Helinext</b> and senior IoT engineer at <b>VoidExploit</b>, based in Venice.<br />
+  15 years in telecom and IT, now building <b>AI agents</b>, security tooling and AI courses.<br />
+  <i>stefandsl: your digital subscriber line into the future.</i>
 </p>
 
 <details>
@@ -39,24 +40,58 @@
 
 ## <a name="h-about"><img src="./assets/h-about.svg" width="30" height="30" alt="" /></a> About Me
 
-I'm Stefan, an **IT/IoT systems engineer and sysadmin** based in **Venice**. My day-to-day is networks and IT/IoT solutions: connecting, troubleshooting and keeping systems running. Being comfortable with code lets me prototype and validate ideas quickly.
+I'm Stefan, a **telecom engineer and system administrator** based in **Venice**, with more than ten years in telecommunications. Networking is the part I love most, especially network aggregators and load balancers.
 
-That's where the AI work comes from. I build systems that turn noise into intelligence: vulnerability reports people actually read, documents scrubbed of personal data before they reach an LLM, and agents that handle the repetitive half of security and compliance work. At **Helinext** that means network assessments, IT asset reporting and security tooling.
+Since September 2025 I've been a **system administrator at Helinext**: network services, systems management, network assessments and IT asset reporting. Before that I spent five years as an **ISP systems technician at Ki-Net**, installing and maintaining network equipment for TIM, Fastweb, Wind, Irideos, Vodafone and Clouditalia, mostly for business and executive customers and special projects. I've worked hands-on with MikroTik, Huawei, ZTE, UniFi, FRITZ!, ADB and Aethra gear.
 
-On the side I teach: **VoidExploit Academy** is my Italian-first AI course, with interactive lessons in four languages. In my spare time I'm practising AI, automation, neural networks and robotics.
+Since 2012 I've also run **VoidExploit**, my own studio, as a freelance senior IoT engineer. That's where the AI work lives: systems that turn noise into intelligence, such as vulnerability reports people actually read, documents scrubbed of personal data before they reach an LLM, and agents that handle the repetitive half of security and compliance work. **VoidExploit Academy** is my Italian-first AI course, with interactive lessons in four languages.
+
+I studied Asian and Mediterranean African languages and cultures (Japanese) at **Ca' Foscari University of Venice**, after a year in Texas as a **FLEX** exchange student. Along the way I've worked on special projects such as the first hackathon in Venice. Next on my list are **CCNP Enterprise, CCIE Infrastructure and Wireless, and Juniper** certifications, alongside my home lab.
 
 **Open to new projects.** If you have something in mind, [write me](mailto:stefandsl@outlook.com).
 
 <table>
   <tr>
     <td><b>Focus</b></td>
-    <td>Programming · Connecting · Troubleshooting · Solutions · Next systems</td>
+    <td>Networking · Systems administration · Troubleshooting · IoT · Automation</td>
   </tr>
   <tr>
     <td><b>Exploring</b></td>
-    <td>AI agents · Neural networks · Robotics · Ethical dev</td>
+    <td>AI agents · Neural networks · Robotics · Quantum networking · Ethical dev</td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Romanian (native) · Italian · English · Russian · Japanese (basic)</td>
   </tr>
 </table>
+
+## <a name="h-quest"><img src="./assets/h-quest.svg" width="30" height="30" alt="" /></a> Quest Log
+
+<img src="./assets/timeline.svg" width="1200" alt="Career: 2010 IT lead at Temple Library, Texas; 2011 telecom technician at Moldtelecom; 2012 senior IoT engineer at VoidExploit; 2020 ISP systems technician at Ki-Net; 2025 system administrator at Helinext. Certifications: OCNA Wireless, Syneto SCP, generative AI courses." />
+
+<details>
+<summary><b>Full log: roles and certifications</b></summary>
+<br />
+
+| When | Role | Where |
+|---|---|---|
+| Sep 2025 – now | System Administrator | Helinext S.r.l., Venice (hybrid) |
+| 2012 – now | Senior IoT Engineer | VoidExploit (freelance) |
+| Jun 2020 – Aug 2025 | ISP Systems Technician | Ki-Net S.r.l. |
+| Apr – Sep 2019 | IT Manager | a&o Hostels, Venice |
+| 2018 – 2019 | Sales Officer | MediaWorld, Venice |
+| 2018 | Promoter / Merchandiser | Acer, Italy |
+| May 2011 – Jan 2012 | Telecom Technician (internship) | Moldtelecom, Ungheni, Moldova |
+| Sep 2010 – May 2011 | IT Lead (apprenticeship) | Temple Library, Texas, USA |
+
+**Certifications**
+
+- **Omada Certified Network Administrator (OCNA) – Wireless**, TP-Link · 2026
+- **Syneto Certified Professional (SCP)**, Syneto · 2025
+- **Generative AI track** (6 courses: Intro to AI, Ethics in the Age of Generative AI, Microsoft 365 Copilot and more), LinkedIn Learning · 2024
+- **The President's Volunteer Service Award** · 2011
+
+</details>
 
 ## <a name="h-projects"><img src="./assets/h-projects.svg" width="30" height="30" alt="" /></a> Projects: Choose Your Module
 
@@ -112,7 +147,7 @@ On the side I teach: **VoidExploit Academy** is my Italian-first AI course, with
 <details>
 <summary><b>Who is stefandsl?</b></summary>
 <br />
-Stefan Butnaru, an IT/IoT systems engineer and sysadmin in Venice. He works on AI agents, security tooling and AI education, including at <a href="https://www.helinext.it">Helinext</a>. Creator of VoidExploit and VoidExploit Academy. Website: <a href="https://www.stefandsl.com/">stefandsl.com</a>.
+Stefan Butnaru, a telecom engineer and system administrator at <a href="https://www.helinext.it">Helinext</a> in Venice, and a senior IoT engineer at VoidExploit. He works on networking, AI agents, security tooling and AI education. Creator of VoidExploit and VoidExploit Academy. Website: <a href="https://www.stefandsl.com/">stefandsl.com</a>.
 </details>
 
 <details>
@@ -129,7 +164,7 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
 
 ## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
 
-<img src="./assets/stack.svg" width="1200" alt="Tech stack: Python, TypeScript, React, Go, Claude Code, Ollama, MCP, Codex, Flask, Tailwind, Docker, Redis, OpenVAS, Tesseract, Supabase, Vercel" />
+<img src="./assets/stack.svg" width="1200" alt="Tech stack: Python, TypeScript, React, Go, Claude Code, Ollama, MCP, Codex, Flask, Tailwind, Docker, Redis, OpenVAS, Tesseract, Supabase, Vercel, MikroTik, UniFi, TP-Link Omada, Syneto" />
 
 ## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
 
