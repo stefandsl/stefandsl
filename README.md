@@ -6,8 +6,6 @@
   TODO: replace the remaining links marked TODO below.
 -->
 
-<p align="right"><a href="https://github.com/settings/appearance" title="Switch light / dark theme"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/theme-toggle.svg" /><img src="./assets/theme-toggle.svg" width="132" height="40" alt="Theme switch: open GitHub appearance settings to change light or dark" /></picture></a></p>
-
 <details>
 <summary><a name="hero"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/hero.svg" /><img src="./assets/hero.svg" width="1200" alt="Stefan (stefandsl): building from the knowledge void at the speed of light. Click to open the console." /></picture></a></summary>
 <br />
