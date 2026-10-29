@@ -19,7 +19,7 @@
 - **Connect**: got a project? <a href="mailto:stefanbutnaru1@gmail.com">write me</a>
 - **Signal**: star a repo you use, it keeps the void lit
 
-<a href="#"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
+<a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
 </details>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 **Learn to steer AI.** VoidExploit Academy is an Italian-first, hands-on AI course: interactive decks, workshops and labs, with English, Romanian and Russian versions.
 
-<a href="#"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
+<a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
 </details>
 
 ## <a name="h-about"><img src="./assets/h-about.svg" width="30" height="30" alt="" /></a> About Me
@@ -138,5 +138,5 @@ An Italian-first AI course: 116 interactive presentations across 11 modules, plu
   <a href="https://www.helinext.it"><img src="./assets/btn-website.svg" width="168" height="52" alt="helinext.it" /></a>
   <a href="https://www.linkedin.com/in/stefan-butnaru/"><img src="./assets/btn-linkedin.svg" width="142" height="52" alt="Stefan Butnaru on LinkedIn" /></a>
   <a href="mailto:stefanbutnaru1@gmail.com"><img src="./assets/btn-email.svg" width="142" height="52" alt="Write me an email" /></a>
-  <a href="#"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
+  <a href="https://www.voidexploit.com/"><img src="./assets/btn-academy.svg" width="237" height="52" alt="VoidExploit Academy" /></a>
 </p>
