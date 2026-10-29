@@ -48,7 +48,7 @@ Since 2012 I've also run **VoidExploit**, my own studio, as a freelance senior I
 
 I studied Asian and Mediterranean African languages and cultures (Japanese) at **Ca' Foscari University of Venice**, after a year in Texas as a **FLEX** exchange student. Along the way I've worked on special projects such as the first hackathon in Venice. Next on my list are **CCNP Enterprise, CCIE Infrastructure and Wireless, and Juniper** certifications, alongside my home lab.
 
-**Open to new projects.** If you have something in mind, [write me](mailto:stefandsl@outlook.com).
+**Open to new projects.** If you have something in mind, [get in touch](mailto:stefandsl@outlook.com).
 
 <table>
   <tr>
